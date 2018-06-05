@@ -1,8 +1,8 @@
 {
-  "name": "project-td",
+  "name": "stencil-template",
   "version": "1.0.0",
   "description": "",
-  "author": "IZED",
+  "author": "",
   "private": true,
   "scripts": {
     "build": "stencil build --prerender",

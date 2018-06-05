@@ -1,7 +1,7 @@
 const sass = require('@stencil/sass');
 
 exports.config = {
-    namespace: "project-td",
+    namespace: "app",
     outputTarget: [
         {
             type: 'www',
