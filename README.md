@@ -1,1 +1,1 @@
-# project-td-game
+# stencil-template
